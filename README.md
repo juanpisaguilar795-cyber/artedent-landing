@@ -4,16 +4,16 @@ Landing page profesional y moderna para ArteDent, un laboratorio dental especial
 
 ## 🚀 Características
 
-- ✨ Diseño moderno y elegante con gradientes azules
-- 📱 100% Responsive (Mobile-first)
-- ⚡ Next.js 14+ con App Router
-- 🎨 Tailwind CSS para estilos
-- 🎭 Animaciones suaves con Framer Motion
-- 🔍 SEO optimizado
-- ♿ Accesible
-- 🖼️ Galería con modal lightbox
-- 💬 Botón flotante de WhatsApp
-- 📊 Optimización de imágenes con next/image
+- Diseño moderno y elegante con gradientes azules
+- 100% Responsive (Mobile-first)
+- Next.js 14+ con App Router
+- Tailwind CSS para estilos
+- Animaciones suaves con Framer Motion
+-  SEO optimizado
+-  Accesible
+-  Galería con modal lightbox
+-  Botón flotante de WhatsApp
+-  Optimización de imágenes con next/image
 
 ## 📦 Tecnologías
 
@@ -166,9 +166,8 @@ Este proyecto fue desarrollado para ArteDent Laboratorio Dental.
 ## 🤝 Soporte
 
 Para preguntas o soporte:
-- 📞 Teléfono: 321 593 2059
-- 📍 Dirección: Transversal 79b # 83b - 33, La Española, Bogotá
+-  Teléfono: 321 593 2059
+-  Dirección: Transversal 79b # 83b - 33, La Española, Bogotá
 
 ---
 
-Desarrollado con ❤️ usando Next.js y Tailwind CSS
