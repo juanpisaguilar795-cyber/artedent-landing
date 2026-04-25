@@ -106,10 +106,6 @@ export default function Services() {
                 <p className="text-sm sm:text-base text-slate-500 leading-relaxed font-medium">
                   {service.description}
                 </p>
-
-                <div className="mt-6 sm:mt-8 flex items-center text-primary-600 font-bold text-xs sm:text-sm gap-2">
-                  Consultar <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                </div>
               </motion.div>
             );
           })}
